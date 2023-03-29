@@ -12,7 +12,7 @@
 }
 .wrapper{
     width: 100vw;
-    height: 100vh;
+    height: 130vh;
     color: var(--colorLight2);
     background: linear-gradient(90deg, #18617e, #09c211);
 }
