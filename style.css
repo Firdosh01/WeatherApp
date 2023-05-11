@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+body{
+    overflow-x: hidden;
+}
 :root {
     --colorDark1: #112D4E;
     --colorDark2: #3F72AF;
@@ -62,7 +65,6 @@ h1{
 }
 .grant-location-container.active{
     display: flex;
-    /* display: block; */
 }
 .grant-location-container img{
     margin-bottom: 2rem;
